@@ -1,13 +1,4 @@
 theme: jekyll-theme-minimal
-title: 工期日历
-description: 可自定义工作和休息日，非常适合追踪装修剩余工作日与延期
+title: 延期了吗：工期日历
+description: 实时追踪工程剩余工作日
 
-# Language-specific settings
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      lang: "zh-CN"
-      title: "工期日历"
-      description: "可自定义工作和休息日，非常适合追踪装修剩余工作日与延期"
